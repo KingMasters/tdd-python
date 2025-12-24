@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+         "-v",
+        "-s",
+        "."
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false
+}
